@@ -6,7 +6,7 @@ export default
         headerTagline: [//Line 1 For Header
             'Hi 👋 I am Mo Fullstack web developer.',
             'HTML, CSS, Javascript, Jquery, Nodejs',
-            'MERN, APIS, Reactjs',
+            'MERN, APIS, Reactjs.',
             //Line 2 For Header
             'Software engine ',
             //Line 3 For Header
