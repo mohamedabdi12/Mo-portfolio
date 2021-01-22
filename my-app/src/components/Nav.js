@@ -102,22 +102,6 @@ const Nav = () => {
             Portfolio
           </Link>
         </li>
-
-        <li className="link">
-          <Link
-            className="anchor"
-            activeClass="active"
-            to="achievements"
-            delay={100}
-            spy={true}
-            smooth={true}
-            offset={0}
-            duration={500}
-          >
-            Achievements
-          </Link>
-        </li>
-
         <li className="link">
           <Link
             className="anchor"

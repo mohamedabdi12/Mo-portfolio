@@ -20,10 +20,6 @@ const Skills = () => {
           <p>CSS3</p>
         </li>
         <li>
-          <i className="fab sass fa-sass"></i>
-          <p>Sass</p>
-        </li>
-        <li>
           <i className="fab bootstrap fa-bootstrap"></i>
           <p>Bootstrap</p>
         </li>
@@ -34,14 +30,6 @@ const Skills = () => {
         <li>
           <i className="fab react fa-react"></i>
           <p>React</p>
-        </li>
-        <li>
-          <i className="fab typescript fa-react"></i>
-          <p>Typescript</p>
-        </li>
-        <li>
-          <i className="fab python fa-python"></i>
-          <p>Python</p>
         </li>
       </div>
     </section>

@@ -75,20 +75,20 @@ const Portfolio = () => {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://nike-shoe-store.netlify.app/"
+            href="https://mo-userdirectory.herokuapp.com"
           >
             <div className="project-images" id="shoeStore"></div>
           </a>
 
           <div className="project-links">
             <div className="text">
-              <h3>Nike Shoe Store</h3>
+              <h3>Password Generator</h3>
             </div>
             <div className="icons">
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/developer-junaid/Nike-Shoe-Store"
+                href="https://github.com/mohamedabdi12/Homework-03-Js.github.io"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -96,7 +96,7 @@ const Portfolio = () => {
               </a>
               <a
                 rel="noopener noreferrer"
-                href="https://nike-shoe-store.netlify.app/"
+                href="https://mohamedabdi12.github.io/Homework-03-Js.github.io/"
                 target="_blank"
               >
                 {" "}
@@ -120,19 +120,19 @@ const Portfolio = () => {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://our-quiz.web.app/"
+            href="https://mohamedabdi12.github.io/homework-w4-js.github.io/"
           >
             <div className="project-images" id="quizApp"></div>
           </a>
           <div className="project-links">
             <div className="text">
-              <h3>"PWA" Quiz App</h3>
+              <h3>Quiz App</h3>
             </div>
             <div className="icons">
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/developer-junaid/Quiz-Application"
+                href="https://github.com/mohamedabdi12/homework-w4-js.github.io"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -140,7 +140,7 @@ const Portfolio = () => {
               </a>
               <a
                 rel="noopener noreferrer"
-                href="https://our-quiz.web.app/"
+                href="https://mohamedabdi12.github.io/homework-w4-js.github.io/"
                 target="_blank"
               >
                 {" "}
@@ -164,19 +164,19 @@ const Portfolio = () => {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="http://explore-matiari.surge.sh/"
+            href="https://mohamedabdi12.github.io/Homework-03-Js.github.io/"
           >
             <div className="project-images" id="matiari"></div>
           </a>
           <div className="project-links">
             <div className="text">
-              <h3>Matiari Tourism Website</h3>
+              <h3>User Directory</h3>
             </div>
             <div className="icons">
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/developer-junaid/matiariWebsite"
+                href="https://github.com/mohamedabdi12/UserDirectory"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -184,7 +184,7 @@ const Portfolio = () => {
               </a>
               <a
                 rel="noopener noreferrer"
-                href="http://explore-matiari.surge.sh/"
+                href="https://mo-userdirectory.herokuapp.com"
                 target="_blank"
               >
                 {" "}
@@ -208,19 +208,19 @@ const Portfolio = () => {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://your-expense-tracker.web.app/"
+            href="https://carlosissac.github.io/project1contactmyreps/"
           >
             <div className="project-images" id="expenseTracker"></div>
           </a>
           <div className="project-links">
             <div className="text">
-              <h3>"PWA" Expense Tracker</h3>
+              <h3>ContactMyRep</h3>
             </div>
             <div className="icons">
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/developer-junaid/Expense-Tracker"
+                href="https://github.com/mohamedabdi12/project1contactmyreps"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -228,7 +228,7 @@ const Portfolio = () => {
               </a>
               <a
                 rel="noopener noreferrer"
-                href="https://your-expense-tracker.web.app/"
+                href="https://carlosissac.github.io/project1contactmyreps/"
                 target="_blank"
               >
                 {" "}
@@ -252,19 +252,19 @@ const Portfolio = () => {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://launches-spacex.web.app/"
+            href="https://reds-gold-greens.herokuapp.com"
           >
             <div className="project-images" id="spacexWebsite"></div>
           </a>
           <div className="project-links">
             <div className="text">
-              <h3>SpaceX Website</h3>
+              <h3>"RGG" a tour app</h3>
             </div>
             <div className="icons">
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/developer-junaid/SpaceX-App"
+                href="https://github.com/mohamedabdi12/RGG_Tours"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -272,7 +272,7 @@ const Portfolio = () => {
               </a>
               <a
                 rel="noopener noreferrer"
-                href="https://launches-spacex.web.app/"
+                href="https://reds-gold-greens.herokuapp.com"
                 target="_blank"
               >
                 {" "}
